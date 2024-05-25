@@ -10,5 +10,5 @@ $ gcc -o compile_file_name  file_.c -linput -ludev
 $ chmod +x compile_file_name
 $ ./compile_file_name
 ```
-<b>The code needs to be refactored<b>
+<b>Code refactoring required in the future<b>
 
